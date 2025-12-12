@@ -2,7 +2,7 @@
 
 title: Hagura - Light!
 # disabled because we are using a custom domain
-#baseurl: /hagura # name of the repository
+baseurl: /jekyll-theme-hagura # name of the repository
 email: your@email.com
 
 highlighter: rouge
